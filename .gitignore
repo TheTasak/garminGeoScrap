@@ -1,0 +1,7 @@
+data/
+.venv/
+.idea/
+logs/
+standalone_admin_password.txt
+airflow.cfg
+map.pdf
